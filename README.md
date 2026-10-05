@@ -20,4 +20,11 @@ The installers are not signed yet, so your computer asks once before the first l
 
 ## Updating
 
-Class Record checks once a day for a newer version and offers to download it (or use **Help → Check for Updates…**). Quit Class Record, then install the new version over the old one. Your records and backups stay where they are; uninstalling never deletes them either. For extra safety, use **File → Back Up…** before updating.
+Class Record checks once a day for a newer version (or use **Help → Check for Updates…**).
+
+1. Click **Download**: the new version downloads in the background with a progress bar. You can keep working.
+2. Click **Install now** when it is ready. The installer starts and Class Record closes itself 5 seconds later.
+   - **Windows:** follow the installer's steps.
+   - **macOS:** in the window that opens, drag **Class Record** onto **Applications** and choose **Replace**.
+
+Your records and backups stay where they are; uninstalling never deletes them either. For extra safety, use **File → Back Up…** before updating. Versions before 0.2.2 open the download in your browser instead: install it as you did the first time.
